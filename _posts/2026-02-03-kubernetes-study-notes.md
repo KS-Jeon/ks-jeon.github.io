@@ -1,15 +1,15 @@
 ---
 title: "따라 배우는 쿠버네티스 필기 노트"
-date: 2026-02-03 17:27:00 +0900
+date: 2026-02-03
 categories: [DevOps, Kubernetes]
 tags: [kubernetes, devops, container, study-notes]
 description: "따라 배우는 쿠버네티스 강의 영상의 수강 내용을 노트 필기"
 toc: true
 ---
 
-## Lab Environment
+## Introduction
 
-본 실습은 WSL 환경에서 kind(Kubernetes in Docker) 기반 Kubernetes 클러스터를 구성해 진행했으며, 강의를 수강하며 내용을 정리한 학습 요약 노트입니다.
+본 실습은 WSL 환경에서 kind(Kubernetes in Docker) 기반 Kubernetes 클러스터를 구성해 진행했으며, 강의를 수강하며 내용을 정리한 학습 요약 노트이다.
 
 ### Tools
 
