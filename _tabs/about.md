@@ -74,6 +74,6 @@ TDG에서 클라우드 엔지니어로 일하고 있습니다.
 
 ## Contact
 
-- GitHub: [KS-Jeon](https://github.com/KS-Jeon)
-- Credly: [ksjeon](https://www.credly.com/users/ksjeon)
+- GitHub: [KS-Jeon Github](https://github.com/KS-Jeon)
+- Credly: [KS-Jeon Credly](https://www.credly.com/users/ksjeon)
 - Email: wjsrjstn123@gmail.com
